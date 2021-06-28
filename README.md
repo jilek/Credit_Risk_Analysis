@@ -38,8 +38,8 @@ This project was to learn how to employ different techniques to train and evalua
 | SMOTE Oversampling             | .6624 | 0.01 / 1.00 / 0.99 | 0.63 / 0.69 / 0.69 | 0.02 / 0.82 / 0.81 |
 | ClusterCentroids Undersampling | .5447 | 0.01 / 1.00 / 0.99 | 0.69 / 0.40 / 0.40 | 0.01 / 0.57 / 0.56 |
 | SMOTEEN Over and Undersampling | .6435 | 0.01 / 1.00 / 0.99 | 0.71 / 0.57 / 0.57 | 0.02 / 0.73 / 0.72 |
-| BalancedRandomForest Ensemble  | .7888 | 0.03 / 1.00 / 0.99 | 0.70 / 0.87 / 0.87 | 0.06 / 0.93 / 0.93 |
-| **EasyEnsemble AdaBoost**          | **.9316** | **0.09** / 1.00 / 0.99 | **0.92 / 0.94 / 0.94** | **0.16 / 0.97 / 0.97** | 
+| BalancedRandomForest Ensemble  | .7885 | 0.03 / 1.00 / 0.99 | 0.70 / 0.87 / 0.87 | 0.06 / 0.93 / 0.93 |
+| **EasyEnsemble AdaBoost**          | **.9317** | **0.09** / 1.00 / 0.99 | **0.92 / 0.94 / 0.94** | **0.16 / 0.97 / 0.97** |
 
 
 #### Deliverable 1 - Use Resampling Models to Predict Credit Risk

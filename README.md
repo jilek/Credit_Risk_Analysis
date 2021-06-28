@@ -90,6 +90,8 @@ Using our knowledge of the imblearn.ensemble library, we trained and compared tw
 
 ![balanced_random_forest.png](Images/balanced_random_forest.png)
 
+![sort_vs_zip_first.png](Images/sort_vs_zip_first.png)
+
 ![easy_ensemble.png](Images/easy_ensemble.png)
 
 ## Summary
